@@ -2,6 +2,8 @@
 
 This project uses class based component and a jsonplaceholder api to fetch users. A search bar is used for filtering out the cards.
 
+![Robo Search App](https://drive.google.com/uc?id=1sWFD2Yyq8vy5_j-xWDnJ-e37Yl07b3bn)
+
 ## Available Scripts
 
 In the project directory, you can run:
